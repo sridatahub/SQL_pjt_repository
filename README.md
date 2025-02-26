@@ -170,3 +170,11 @@ WHERE sale_date BETWEEN '2022-11-01' AND '2022-11-30'
 GROUP BY category
 ORDER BY total_revenue DESC;
 ```
+
+## 🙌 Thank You!  
+
+Thank you for exploring this project! If you have any questions or suggestions, feel free to reach out.  
+
+📧 **Contact:** [chavalasrikanth09@gmail.com](mailto:chavalasrikanth09@gmail.com)  
+
+Keep Exploring, Keep Learning, and Keep Growing! ! 🚀
