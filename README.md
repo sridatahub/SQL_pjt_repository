@@ -16,3 +16,7 @@ CREATE TABLE retail_sales(
     total_sale FLOAT
 );
 ```
+2. Checking Total Number of Records
+
+   ```sql
+   SELECT COUNT(*) FROM retail_sales;
