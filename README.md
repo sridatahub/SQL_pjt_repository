@@ -1,4 +1,17 @@
+## 🛒 Retail Sales Analysis of a Store  
 
+This project analyzes retail sales data using **PostgreSQL** to uncover key business insights. The dataset includes **2000 records** covering transactions, customer demographics, product categories, and sales details.  
+
+### 🔍 Key Objectives:  
+- **Data Cleaning:** Handle missing values and inconsistencies.  
+- **Exploratory Data Analysis (EDA):** Identify key sales trends.  
+- **Business Insights:** Analyze sales performance, customer behavior, and category-wise sales.  
+- **SQL Queries:** Perform aggregations, filtering, and advanced analytics.  
+
+### 🛠️ Technologies Used:  
+- **Database:** PostgreSQL  
+- **SQL Concepts:** Data Cleaning, Aggregations, Window Functions, Ranking  
+- **Analysis Techniques:** Sales Trend Analysis, Customer Segmentation, Revenue Calculation  
 1. Creating the Table
 
 ```sql
