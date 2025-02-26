@@ -1,5 +1,5 @@
 
-##1. Creating the Table
+1. Creating the Table
 
 ```sql
 CREATE TABLE retail_sales(
